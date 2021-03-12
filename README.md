@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TuxStory
-- 👀 I’m interested in Linux, Virtualisation, Network, Administration, Security, Coding, Scripting & lot of stuff.
+- 👀 I’m interested in Linux, Virtualization, Network, Administration, Security, Coding, Scripting & a lot of stuff.
 - 🌱 I’m currently learning everything I'm interested in.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me by e-mail.  
