@@ -3,8 +3,18 @@
 Hi, I’m @TuxStory
 <table>
   <tr>
-    <td><b><i>Formation</i></b></td>
+    <td><b><i>Certificates</i></b></td>
     <td colspan="6" align=center>Graduate of Computer Science</td>
+  </tr>
+   <tr>
+    <td><b><i>Volunteering</i></b></td>
+    <td colspan="3" align=center> Raspberry Pi Foundation</td>
+    <td colspan="3" align=center> Coderdojo</td>
+  </tr>
+  <tr>
+    <td><b><i>Language</i></b></td>
+    <td colspan="3" align=center> French</td>
+    <td colspan="3" align=center> English</td>
   </tr>
   <tr>
     <td><b><i>Interest</i></b></td>
@@ -13,11 +23,6 @@ Hi, I’m @TuxStory
     <td> Virtualization </td>
     <td> Administration </td>
     <td> Security<td>Coding </td>
-  <tr>
-    <td><b><i>Language</i></b></td>
-    <td colspan="3" align=center> French</td>
-    <td colspan="3" align=center> English</td>
-  </tr>
 </table>
 <!---
 TuxStory/TuxStory is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
