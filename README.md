@@ -18,16 +18,14 @@ Hi, I’m @TuxStory
   </tr>
   <tr>
     <td><b><i>Interest</i></b></td>
-    <td> Linux </td> 
+    <td> Linux </td>
+    <td> Administration </td>
     <td> Network </td>
     <td> Virtualization </td>
-    <td> Administration </td>
-    <td> Security<td>Coding </td>
+    <td> Security </td>
+    <td> Coding </td>
+   </tr>
 </table>
-<!---
-TuxStory/TuxStory is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 ## Linux Distribution
 
@@ -36,3 +34,8 @@ You can click the Preview link to take a look at your changes.
 ## Code    
 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+<!---
+TuxStory/TuxStory is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
