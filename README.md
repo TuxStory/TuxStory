@@ -17,7 +17,7 @@ Hi, I’m @TuxStory
     <td colspan="3" align=center> English</td>
   </tr>
   <tr>
-    <td><b><i>Interest</i></b></td>
+    <td><b><i>Interests</i></b></td>
     <td> Linux </td>
     <td> Administration </td>
     <td> Network </td>
@@ -27,11 +27,11 @@ Hi, I’m @TuxStory
    </tr>
 </table>
 
-## Linux Distribution
+#### Linux Distribution:
 
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /><img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" /><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /><img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" /><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
 
-## Code    
+#### Favorite Languages: 
 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
